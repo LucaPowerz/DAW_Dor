@@ -1,8 +1,8 @@
-248
-82/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.5d9dacde.js.map1728569406120000000 0
-71/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/index1728568881110000000 0
+250
+82/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/lol-logo.00b771f2.png1728570084790000000 0
 75/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/logs/refs1728568643740000000 1
 70/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/logs1728568643740000000 1
+71/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/index1728570189790000000 0
 115/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/62/75dcc2752ee8de39da8b9bdee2ed728f4adce71728568643740000000 0
 76/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/621728568643740000000 1
 115/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/33/d53c144b1b0b454a9705726d7403d07ff1382e1728568643740000000 0
@@ -27,13 +27,13 @@
 97/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/hooks/prepare-commit-msg.sample1728568616000000000 0
 71/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/hooks1728568616010000000 1
 77/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/description1728568616000000000 0
-82/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/lol-logo.00b771f2.png1728569406120000000 0
-60/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist1728569406120000000 1
+82/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.5d9dacde.js.map1728570084800000000 0
+60/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist1728570084800000000 1
 115/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/b5/c22972bd1d278fda31d52962ba699f52a235e71728568623070000000 0
 66/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/index.html1728486032170000000 0
 69/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/css/index.css1728567849190000000 0
 89/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/leagueoflegends.png1727966237160000000 0
-89/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/leagueoflegends.2698e319.png1728569406120000000 0
+89/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/leagueoflegends.2698e319.png1728570084800000000 0
 82/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/lol-logo.png1727966213380000000 0
 97/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/hooks/fsmonitor-watchman.sample1728568616010000000 0
 98/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Zac_0.jpg1728313065670000000 0
@@ -49,6 +49,7 @@
 115/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/81/5454281e5951d38044cfdae94f4ef544368d711728568623070000000 0
 104/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Gangplank_0.jpg1728313065630000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Akshan_0.jpg1728313065620000000 0
+73/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/package-lock.json1728569755190000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Anivia_0.jpg1728313065620000000 0
 103/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Vladimir_0.jpg1728313065620000000 0
 103/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Kassadin_0.jpg1728313065640000000 0
@@ -110,7 +111,7 @@
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Yuumi_0.jpg1728313065650000000 0
 102/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Alistar_0.jpg1728313065480000000 0
 107/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Heimerdinger_0.jpg1728313065380000000 0
-65/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git1728568881110000000 1
+65/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git1728570189790000000 1
 103/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Pantheon_0.jpg1728313065410000000 0
 102/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Orianna_0.jpg1728313065330000000 0
 106/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Mordekaiser_0.jpg1728313065410000000 0
@@ -120,7 +121,7 @@
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Shaco_0.jpg1728313065340000000 0
 103/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Tristana_0.jpg1728313065450000000 0
 99/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Udyr_0.jpg1728313065430000000 0
-83/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.e9a92ad8.css.map1728569406120000000 0
+83/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.e9a92ad8.css.map1728570084790000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Riven_0.jpg1728313065430000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Braum_0.jpg1728313065580000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Vayne_0.jpg1728313065330000000 0
@@ -130,9 +131,9 @@
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Galio_0.jpg1728313065460000000 0
 104/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Lissandra_0.jpg1728313065400000000 0
 88/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files1728313065670000000 1
-55/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL1728568594990000000 1
-78/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.5d9dacde.js1728569406120000000 0
+55/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL1728570355610000000 1
 76/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/objects/e81728568623070000000 1
+78/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.5d9dacde.js1728570084800000000 0
 99/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Jinx_0.jpg1728313065360000000 0
 85/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/.git/hooks/update.sample1728568616010000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Xerath_0.jpg1728313065510000000 0
@@ -166,12 +167,12 @@
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/RekSai_0.jpg1728313065350000000 0
 104/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Seraphine_0.jpg1728313065650000000 0
 102/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Hecarim_0.jpg1728313065570000000 0
-71/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.html1728569406110000000 0
+71/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.html1728570084790000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Nilah_0.jpg1728313065360000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Aatrox_0.jpg1728313065430000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Briar_0.jpg1728313065530000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Jayce_0.jpg1728313065330000000 0
-79/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.e9a92ad8.css1728569406120000000 0
+79/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.e9a92ad8.css1728570084790000000 0
 83/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/dist/index.073ee869.css.map1728568983380000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Lucian_0.jpg1728313065370000000 0
 106/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/MissFortune_0.jpg1728313065490000000 0
@@ -184,6 +185,7 @@
 102/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Shyvana_0.jpg1728313065590000000 0
 103/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Nautilus_0.jpg1728313065570000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Xayah_0.jpg1728313065370000000 0
+68/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/package.json1728570761330000000 0
 100/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Urgot_0.jpg1728313065590000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Rumble_0.jpg1728313065370000000 0
 101/media/daw/KINGSTON/DOR/Trimestre 1/DAW_Dor/ProyectoLoL/assets/images/LoL Database_files/Rammus_0.jpg1728313065490000000 0

@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve -d dist index.html",
+    "build": "parcel build -d build --public-url https://github.com/LucaPowerz/DAW_Dor/tree/main/ProyectoLoL index.html",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
